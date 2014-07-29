@@ -1,4 +1,10 @@
 #################
+## NodeJs - exclude node_modules as these can be rebuilt using npm install
+#################
+node_modules/
+
+
+#################
 ## Eclipse
 #################
 
